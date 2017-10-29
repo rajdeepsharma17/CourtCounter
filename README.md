@@ -1,2 +1,2 @@
 # Court Counter
-Score managing assistant!
+Score management assistant!
