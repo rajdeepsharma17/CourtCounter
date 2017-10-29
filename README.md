@@ -1,2 +1,2 @@
-# Court Counter
+### Court Counter
 Score managing assistant!
